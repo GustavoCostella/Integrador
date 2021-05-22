@@ -1,0 +1,33 @@
+html,body {
+  font-family: 'Open Sans', serif;
+  font-size: 14px;
+  font-weight: 300;
+}
+.hero.is-success {
+  background: #000;
+}
+.hero .nav, .hero.is-success .nav {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+input {
+  font-weight: 300;
+}
+p {
+  font-weight: 700;
+}
+.bg-img { 
+    background-image: url(https://www.mach1services.com/wp-content/uploads/2020/08/Mobile-Mechanic-Near-Me.jpg) ;
+    background-position: center center;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
+    background-color: #999;
+
+ }
+
+.img-responsive {
+      display: block; 
+      max-width: 100%;
+      height: auto;
+   } 
